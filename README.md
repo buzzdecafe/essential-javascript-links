@@ -134,7 +134,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library.
 * [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)  A fast [json-schema](http://json-schema.org/) validator.
 * [inquirer.js](https://github.com/SBoudrias/Inquirer.js) Great library for building CLI tools.
-
+* [Ramda](https://github.com/ramda/ramda) Practical functional JavaScript.
 
 ## Web Components
 
